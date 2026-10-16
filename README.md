@@ -29,3 +29,6 @@ This project gave me practical experience in data analysis and visualization. I 
 
 ## Future Improvements
 I would like to add state-wise comparisons and make it easier to search for a specific PIN code or post office.
+## Dashboard Preview
+
+![Postal Network Intelligence Dashboard](Screenshot%202026-10-16%20210837.png)
