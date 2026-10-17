@@ -32,7 +32,6 @@ I would like to add state-wise comparisons and make it easier to search for a sp
 ## Dashboard Preview
 
 ![Postal Network Intelligence Dashboard](Screenshot%202026-10-16%20210837.png)
-### Data Source and Attribution
 
 ### Data Source and Attribution
 
