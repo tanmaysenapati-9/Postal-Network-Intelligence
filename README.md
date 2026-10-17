@@ -34,9 +34,11 @@ I would like to add state-wise comparisons and make it easier to search for a sp
 ![Postal Network Intelligence Dashboard](Screenshot%202026-10-16%20210837.png)
 ### Data Source and Attribution
 
+### Data Source and Attribution
+
 - **Data provider:** Department of Posts, Ministry of Communications, Government of India.
 - **Dataset:** All India Pincode Directory.
-- **Source:** [Open Government Data Platform India](https://data.gov.in/catalog/all-india-pincode-directory-through-webservice).
+- **Source:** [Open Government Data Platform India — All India Pincode Directory](https://data.gov.in/catalog/all-india-pincode-directory-through-webservice).
 - **License:** Government Open Data License – India, subject to the applicable terms and conditions: https://data.gov.in/Godl
 
 This project uses the dataset for educational purposes to analyse postal network coverage and coordinate data quality. The dashboard and analysis are my own work.
